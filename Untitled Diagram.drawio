@@ -1,14 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T12:28:40.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Ev_zk0jQnJN2xVCHf86A" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T12:39:39.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WakoSiobk_S2MxH7-cA7" version="20.8.16" type="github">
   <diagram name="Page-1" id="rfQDlVBvBO9YegOGe4pb">
     <mxGraphModel dx="880" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rrWSx_nv68KSUnvZ_vTT-1" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Question empirique&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font size=&quot;3&quot;&gt;Littérature&lt;br&gt;(entretiens exploratoires)&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font size=&quot;3&quot;&gt;Problématique&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font size=&quot;3&quot;&gt;Design de recherche&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="20" width="370" height="170" as="geometry" />
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="10" width="350" height="210" as="geometry" />
         </mxCell>
         <mxCell id="rrWSx_nv68KSUnvZ_vTT-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="10" height="130" as="geometry" />
+          <mxGeometry x="520" y="20" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;endWidth=14;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="40" as="sourcePoint" />
+            <mxPoint x="440" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;endWidth=14;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="90" as="sourcePoint" />
+            <mxPoint x="440" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;endWidth=14;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="140" as="sourcePoint" />
+            <mxPoint x="440" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;endWidth=14;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="190" as="sourcePoint" />
+            <mxPoint x="440" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-9" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot; style=&quot;font-size: 15px;&quot;&gt;Question empirique&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-10" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Littérature&lt;br/&gt;(entretiens exploratoires)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="70" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-11" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Problématique&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-12" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;Design de recherche&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="305" y="300" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;endWidth=14;endSize=3;" edge="1" parent="rrWSx_nv68KSUnvZ_vTT-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.5" as="sourcePoint" />
+            <mxPoint x="80" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-16" value="&lt;p class=&quot;MsoNormal&quot;&gt;Analyse des données&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="rrWSx_nv68KSUnvZ_vTT-17">
+          <mxGeometry y="40" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-21" value="" style="group" vertex="1" connectable="0" parent="rrWSx_nv68KSUnvZ_vTT-17">
+          <mxGeometry y="70" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;endWidth=14;endSize=3;" edge="1" parent="rrWSx_nv68KSUnvZ_vTT-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.5" as="sourcePoint" />
+            <mxPoint x="80" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-23" value="&lt;p class=&quot;MsoNormal&quot;&gt;Résultats&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="rrWSx_nv68KSUnvZ_vTT-21">
+          <mxGeometry y="40" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="305" y="230" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;endWidth=14;endSize=3;" edge="1" parent="rrWSx_nv68KSUnvZ_vTT-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.5" as="sourcePoint" />
+            <mxPoint x="80" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rrWSx_nv68KSUnvZ_vTT-20" value="&lt;p style=&quot;margin-left:3.75pt;text-align:justify;line-height:&lt;br/&gt;150%;tab-stops:172.5pt 195.0pt&quot; class=&quot;MsoNormal&quot;&gt;Recueil des données&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="rrWSx_nv68KSUnvZ_vTT-18">
+          <mxGeometry y="40" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
