@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T12:16:05.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="f0ACmOuez0k5aPVLi_tx" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T12:17:45.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1Sr8YtlnCrufrmcMiqpY" version="20.8.16" type="github">
   <diagram name="Page-1" id="kxPQBd4SaF__wtYdb1RR">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,35 +105,68 @@
         <mxCell id="5SdZK2xEEZFwPjjDHowP-37" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="80" width="10" height="910" as="geometry" />
         </mxCell>
+        <mxCell id="5SdZK2xEEZFwPjjDHowP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.2;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="5SdZK2xEEZFwPjjDHowP-38" target="5SdZK2xEEZFwPjjDHowP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5SdZK2xEEZFwPjjDHowP-38" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1976: premier article scientifique&amp;nbsp;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="70" y="510" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5SdZK2xEEZFwPjjDHowP-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.1;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="5SdZK2xEEZFwPjjDHowP-39" target="5SdZK2xEEZFwPjjDHowP-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5SdZK2xEEZFwPjjDHowP-39" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1979: premier rapport&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="70" y="554.5" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5SdZK2xEEZFwPjjDHowP-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="5SdZK2xEEZFwPjjDHowP-40" target="5SdZK2xEEZFwPjjDHowP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5SdZK2xEEZFwPjjDHowP-40" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1981: première présentation en conférence&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="70" y="600" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5SdZK2xEEZFwPjjDHowP-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="5SdZK2xEEZFwPjjDHowP-41" target="5SdZK2xEEZFwPjjDHowP-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5SdZK2xEEZFwPjjDHowP-41" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1985: premier livre académique orienté&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="70" y="650" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5SdZK2xEEZFwPjjDHowP-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="5SdZK2xEEZFwPjjDHowP-42" target="5SdZK2xEEZFwPjjDHowP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5SdZK2xEEZFwPjjDHowP-42" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1986: première revue de littérature&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="70" y="690" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5SdZK2xEEZFwPjjDHowP-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.731;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="5SdZK2xEEZFwPjjDHowP-43" target="5SdZK2xEEZFwPjjDHowP-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5SdZK2xEEZFwPjjDHowP-43" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1989: premier volume dédié&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="70" y="730" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5SdZK2xEEZFwPjjDHowP-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.786;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="5SdZK2xEEZFwPjjDHowP-44" target="5SdZK2xEEZFwPjjDHowP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5SdZK2xEEZFwPjjDHowP-44" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1997: premier numéro spécial&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="70" y="780" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5SdZK2xEEZFwPjjDHowP-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="5SdZK2xEEZFwPjjDHowP-45" target="5SdZK2xEEZFwPjjDHowP-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5SdZK2xEEZFwPjjDHowP-45" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;1998: première conférence politique&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="70" y="810" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5SdZK2xEEZFwPjjDHowP-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.873;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="5SdZK2xEEZFwPjjDHowP-46" target="5SdZK2xEEZFwPjjDHowP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5SdZK2xEEZFwPjjDHowP-46" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;2003: première conférence académique&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="70" y="860" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5SdZK2xEEZFwPjjDHowP-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=0.929;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="5SdZK2xEEZFwPjjDHowP-47" target="5SdZK2xEEZFwPjjDHowP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5SdZK2xEEZFwPjjDHowP-47" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;2007: première remise de prix&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="70" y="910" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5SdZK2xEEZFwPjjDHowP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.5;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="5SdZK2xEEZFwPjjDHowP-48" target="5SdZK2xEEZFwPjjDHowP-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5SdZK2xEEZFwPjjDHowP-48" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;2009: premier journal académique dédié&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="70" y="960" width="280" height="30" as="geometry" />
